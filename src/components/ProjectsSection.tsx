@@ -30,7 +30,7 @@ const ProjectsSection = () => {
       image: 'https://plus.unsplash.com/premium_photo-1722729629224-4397a1ce8267?fit=crop&w=600&h=400',
       tech: ['React', 'TypeScript', 'Tailwind CSS'],
       github: 'https://github.com/ashishsahoo-code',
-      demo: 'https://github.com/ashishsahoo-code/Portfolio_web'
+      demo: 'ashishsahoo-dev.netlify.app'
     }
   ];
 

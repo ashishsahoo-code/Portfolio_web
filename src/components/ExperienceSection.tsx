@@ -34,11 +34,11 @@ const ExperienceSection = () => {
   const education = [
     {
       type: 'education',
-      title: 'Bachelor of Computer Science',
-      company: 'University of Technology',
+      title: 'Bachelor of technology Computer Science',
+      company: 'Siksha O Anusandhan University , Bhubaneswar',
       period: '2015 - 2019',
       description:
-        'Graduated Magna Cum Laude. Specialized in Software Engineering and Web Development. Active member of the Computer Science Society.',
+        'Specialized in Software Engineering and Web Development. Active member of the Computer Science Society.',
       skills: ['Data Structures', 'Algorithms', 'Software Engineering', 'Database Systems'],
     },
     {
