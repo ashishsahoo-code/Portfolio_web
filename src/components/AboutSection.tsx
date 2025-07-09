@@ -41,7 +41,7 @@ const AboutSection = () => {
               <div className="glass-card p-8">
                 <h3 className="text-2xl font-bold mb-4 text-neon-blue">My Journey</h3>
                 <p className="text-gray-300 leading-relaxed mb-6">
-                  I'm a passionate full-stack developer with 5+ years of experience building
+                  I'm a passionate full-stack developer with 1.5+ years of experience building
                   innovative digital solutions. My journey started with a fascination for
                   creating things that make a difference, and I've been crafting code ever since.
                 </p>
